@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "f4a3d5b4-8374-410d-a29a-fff22c19cb54",
+      "name": "John Doe",
+      "email": "johnDoe@gmail.com"
+    },
+    {
+      "id": "179a157c-8035-460b-ad2f-0ba177639fd9",
+      "name": "John Samuel",
+      "email": "jsamuel@yahoo.com"
+    },
+    {
+      "id": "97747ccc-8774-4552-9780-2e07f786241a",
+      "name": "tree",
+      "email": "tree@mail.com"
+    }
+  ]
+}
